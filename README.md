@@ -21,7 +21,8 @@ from an open source online such as kaggle or FRED or any other repository site.
               1. Data manipulation 
               2. Data munching 
       -SQL SERVER (for querying and analysis)
-      -POWER BI (for creating a report)
+
+      -POWER BI (for creating report)      
       -MS POWERPOINT (for presentation)
 
 ### DATA CLEANING AND PREPARATION
