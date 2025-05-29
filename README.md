@@ -26,7 +26,25 @@ from an open source online such as kaggle or FRED or any other repository site.
 
 ### DATA CLEANING AND PREPARATION
 In the initial phase of data cleaning and preparation, we perform the following actions;
-Data loading and inspection
+    
+    a. Data loading and inspection
+    b. Handling missing variables
+    c. Data cleaning and formatting
+    
+## EXPLORATORY DATA ANALYSIS
+EDA involves the exploring of the data to answer some questions about the data such as:
+    -What product is the overall sale trend
+    -Which product are top sellers
+    -what are the products on peak sales
+
+## DATA ANALYSIS
+This is where we include some basic lines of codes or queries or even some of the DAX 
+expressions used during the analysis.
+
+        SELECT A,B,C
+
+        WHERE A > 15
+    
 
 ### ANALYSIS
 ![PIE CHART](https://github.com/user-attachments/assets/d9da6b4e-1cb1-4f70-98d3-713ed7d11c91)
