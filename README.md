@@ -16,4 +16,6 @@ The primary source of this data used here is data sales.csv and this is an open 
 -SQL SERVER (for querying and analysis)
 -POWER BI (for creating a report)
 -MS POWERPOINT (for presentation)
-
+### DATA CLEANING AND PREPARATION
+In the initial phase of data cleaning and preparation, we perform the following actions;
+Data loading and inspection
