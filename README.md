@@ -14,14 +14,15 @@ The primary source of this data used here is data sales.csv and this is an open 
 from an open source online such as kaggle or FRED or any other repository site.
 
 ### TOOLS USED
--MS EXCEL [download here](https://www.microsoft.com)
-      -for data collection
-      -for cleaning data
-        1. Data manipulation 
-        2. Data munching 
--SQL SERVER (for querying and analysis)
--POWER BI (for creating a report)
--MS POWERPOINT (for presentation)
+ -MS EXCEL [download here](https://www.microsoft.com)
+      
+            -for data collection
+            -for cleaning data
+              1. Data manipulation 
+              2. Data munching 
+      -SQL SERVER (for querying and analysis)
+      -POWER BI (for creating a report)
+      -MS POWERPOINT (for presentation)
 
 ### DATA CLEANING AND PREPARATION
 In the initial phase of data cleaning and preparation, we perform the following actions;
