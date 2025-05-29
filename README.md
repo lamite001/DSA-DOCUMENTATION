@@ -21,3 +21,6 @@ In the initial phase of data cleaning and preparation, we perform the following 
 Data loading and inspection
 
 ### ANALYSIS
+![PIE CHART](https://github.com/user-attachments/assets/d9da6b4e-1cb1-4f70-98d3-713ed7d11c91)
+![BAR CHART](https://github.com/user-attachments/assets/1f6bb122-b3f0-4fa9-ab50-2951d1886a46)
+
